@@ -21,18 +21,18 @@
     "test": "make test"
   },
   "dependencies": {
-    "async": "^0.2.10",
-    "gulp-util": "^2.2.14",
-    "mocha-phantomjs": "^3.3.2",
-    "phantomjs": "^1.9.0",
-    "through2": "^0.4.1"
+    "async": "^2.1.2",
+    "gulp-util": "^3.0.7",
+    "mocha-phantomjs": "^4.1.0",
+    "phantomjs": "^2.1.7",
+    "through2": "^2.0.1"
   },
   "devDependencies": {
     "gulp": "^3.5.6",
-    "gulp-jshint": "^1.5.0",
-    "gulp-mocha": "^0.4.1",
-    "mocha": "^1.18.2",
-    "should": "^3.2.0"
+    "gulp-jshint": "^2.0.2",
+    "gulp-mocha": "^3.0.1",
+    "mocha": "^3.1.2",
+    "should": "^11.1.1"
   },
   "homepage": "https://github.com/mrhooray/gulp-mocha-phantomjs",
   "repository": {
